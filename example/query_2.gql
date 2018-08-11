@@ -1,0 +1,10 @@
+{
+  posts {
+    id
+    author {
+      id
+      firstName
+      lastName
+    }
+  }
+}
